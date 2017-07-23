@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:3000/about/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/aerial/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/all/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/component/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/contributing/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/ground/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/marine/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/robot/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/category/sensor/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:3000/tags/index.html</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:3000/bulldog/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/gapter/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/panther/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/turtlebot3/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/oculus-prime/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/neobotix-mp-400/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/neobotix-mpo-500/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mpo-700/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/schunk-svh/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/schunk-lwa-4p/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/autorally/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/xiaoqiang/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/tulip/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/spark/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/robotis-manipulator/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pepper/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/crom/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/armadillo/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/otto-bock-sensorhand/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/nav2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mrp2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/miabotpro/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mecanumbot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/maggie/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mico/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/lego-nxt/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/jaco/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/irobot-roomba/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/intel-edison/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/hironxo/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/wheeledrobin/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/shadow-hand/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pmb-2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/hansbot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/forterc/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/corobot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/sra-service-robot-arm/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/slidersra/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mover/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/warthog/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/seekurjr/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/seekur/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/ridgeback/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/powerbot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pioneer-lx/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pioneer-lx-manipulator/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pioneer-3-dx/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/pioneer-3-at/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/big-i/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/amigobot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/x-terrabot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/aubo-i-series/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/ar10/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/0x-series/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/navio2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/roch/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/xbot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/intel-euclid/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/tiago/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/thormang/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/robosavvy-balance/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/robonaut2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/reem/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/reem-c/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/summit-xl/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/summit-x/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/robotino/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/rbcar/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/rb-1/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mobility-base/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/mini-lab/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/kobuki/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/jazz/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/jaguar/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/hamster/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/guardian/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/freight/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/fetch/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/evarobot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erle-spider/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erle-rover/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erle-plane/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erle-hexacopter/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erle-brain/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/cyton-gamma/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/care-o-bot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/agvs/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/adas-development-vehicle-kit/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/kingfisher/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/jackal/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/husky/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/grizzly/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/bluerov/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/barrett-hand/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/allegro-hand/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/crazyflie/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/bipedrobin/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/segway-rmpv3/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/nao/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/innok-heros/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/astec-pelican-and-hummingbird/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/amigo/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/abb-manipulators/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/erlecopter/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/tally/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/turtlebot/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:3000/PR2/</loc>
+        </url>
+  
+</urlset>

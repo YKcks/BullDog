@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>An index of ROS Robots</description>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 23 Jul 2017 08:51:55 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2017 08:51:55 +0000</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>BullDog</title>
+        <description>&lt;p&gt;TODO Fill in the long description/article here.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/bulldog/</link>
+        <guid isPermaLink="true">http://localhost:3000/bulldog/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gapter</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/yvDDQqJrYdw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;ros-enabled-drone&quot;&gt;ROS-Enabled Drone&lt;/h2&gt; &lt;p&gt;Gapter EDU is a perfect platform to learn drone programming with ROS. A comprehensive ROS package with several demos is available for Gapter.&lt;/p&gt; &lt;h2 id=&quot;supports-the-mavlink-protocol&quot;&gt;Supports the MAVLink Protocol&lt;/h2&gt; &lt;p&gt;Gapter fully support the MAVLink protocol allowing its control and monitoring through MAVLink ground stations. You can easly define and control autonmous missions of Gapter drone through Internet or Telemtry devices.&lt;/p&gt; &lt;h2 id=&quot;internet-connectivity&quot;&gt;Internet Connectivity&lt;/h2&gt; &lt;p&gt;Using a 3G/4G WiFi model you can make Gapter accessible through Internet or Local Area Network. Using Dronemap Planner software along with the 3G/4G WiFi router, you can control...</description>
+        <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/gapter/</link>
+        <guid isPermaLink="true">http://localhost:3000/gapter/</guid>
+        
+        <category>educational</category>
+        
+        <category>copter</category>
+        
+        <category>MAVLink</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Panther</title>
+        <description>&lt;h2 id=&quot;panther&quot;&gt;Panther&lt;/h2&gt; &lt;p&gt;Panther (Powerful Autonomous eNTity High-End Robot) is an outdoor tracked robot, with a ZED stereocamera and an NVIDIA Jetson TX2, this robot can interact with all objects around it.&lt;/p&gt; &lt;p&gt;This robot can climbs little rocks and little bumps. it is heavy with 9kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.&lt;/p&gt; &lt;h3 id=&quot;characteristics&quot;&gt;Characteristics:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Dimensions: 42 x 40 x 30 cm&lt;/li&gt; &lt;li&gt;Ground clearance: 7cm&lt;/li&gt; &lt;li&gt;Weight: 11...</description>
+        <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/panther/</link>
+        <guid isPermaLink="true">http://localhost:3000/panther/</guid>
+        
+        <category>diff-drive</category>
+        
+        <category>ground</category>
+        
+        <category>mobile robot</category>
+        
+        <category>outdoor</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>TurtleBot3</title>
+        <description>&lt;p&gt;TurtleBot is a low-cost, personal robot kit with open-source software. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.&lt;/p&gt; &lt;p&gt;For more information: &lt;a href=&quot;http://www.turtlebot.com&quot;&gt;TurtleBot website&lt;/a&gt;&lt;/p&gt; &lt;iframe width=&quot;100%&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/9OC3J53RUsk?ecver=1&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;turtlebot-3&quot;&gt;TurtleBot 3&lt;/h2&gt; &lt;p&gt;TurtleBot3 is a new generation mobile robot that is modular, compact and customizable. Let’s explore ROS and create exciting applications for education, research and product development.&lt;/p&gt; &lt;p&gt;The goal of TurtleBot3 is to drastically reduce the size and lower the price of the platform without sacrificing capability, functionality, and quality....</description>
+        <pubDate>Thu, 01 Jun 2017 01:53:39 +0000</pubDate>
+        <link>http://localhost:3000/turtlebot3/</link>
+        <guid isPermaLink="true">http://localhost:3000/turtlebot3/</guid>
+        
+        <category>indigo</category>
+        
+        <category>jade</category>
+        
+        <category>kinetic</category>
+        
+        <category>ground</category>
+        
+        <category>mobile base</category>
+        
+        <category>education</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Oculus Prime</title>
+        <description>&lt;h1 id=&quot;oculus-prime-slam-navigator&quot;&gt;Oculus Prime SLAM Navigator&lt;/h1&gt; &lt;p&gt;Oculus Prime SLAM Navigator is a low cost, open-source autonomous mobile robot available from &lt;a href=&quot;http://www.xaxxon.com/oculusprime/slamnavigator&quot;&gt;Xaxxon Technologies&lt;/a&gt;, ready for ROS applications. It packs a full mini-ITX motherboard, pre-loaded with Linux Xubuntu 16.04 and ROS Kinetic.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Auto-docking charging station&lt;/li&gt; &lt;li&gt;Orbbec Astra depth camera&lt;/li&gt; &lt;li&gt;Servo-tilting camera and lights&lt;/li&gt; &lt;li&gt;4 wheel gearmotors including encoder&lt;/li&gt; &lt;li&gt;Precision odometry linear/rotational&lt;/li&gt; &lt;li&gt;Xaxxon MALG motor/audio/lights/gyro Arduino compatible controller PCB&lt;/li&gt; &lt;li&gt;4-hour LiPo battery&lt;/li&gt; &lt;li&gt;Wifi connectivity, overlapping network auto-switching&lt;/li&gt; &lt;li&gt;3G/4G/LTE connectivity relay server&lt;/li&gt; &lt;li&gt;Integrated battery charging and power management&lt;/li&gt; &lt;li&gt;Internet tele-operation web UI&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/robots/oculus-prime/oculusprime_charging.jpg&quot; alt=&quot;Oculus Prime Charging&quot; /&gt;&lt;/p&gt; &lt;p&gt;Please check out &lt;a...</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/oculus-prime/</link>
+        <guid isPermaLink="true">http://localhost:3000/oculus-prime/</guid>
+        
+        <category>ground</category>
+        
+        <category>wheeled</category>
+        
+        <category>autonomous</category>
+        
+        <category>research</category>
+        
+        <category>skidsteer</category>
+        
+        <category>mobile robot</category>
+        
+        <category>education</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MP-400</title>
+        <description>&lt;h2 id=&quot;neobotix-mp-400&quot;&gt;Neobotix MP-400&lt;/h2&gt; &lt;p&gt;The mobile robot MP-400 was designed for daily use in industrial applications. Its construction is based on the best elements of our well proven robots but also includes many innovative ideas.&lt;/p&gt; &lt;p&gt;The MP-400’s primary task is the flexible material transport in intralogistics. This small, agile robot can cover connections that cannot be realised with stationary conveyors or traditional AGVs.&lt;/p&gt; &lt;p&gt;If required, the MP-400 can also easily be used in more demanding applications. Other possible tasks include mobile manipulation with an integrated robot arm or the whole field of service robotics research.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Payload: &lt;ul&gt; &lt;li&gt;Default 100 kg,...</description>
+        <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/neobotix-mp-400/</link>
+        <guid isPermaLink="true">http://localhost:3000/neobotix-mp-400/</guid>
+        
+        <category>mobile base</category>
+        
+        <category>diff-drive</category>
+        
+        <category>industrial</category>
+        
+        <category>retail</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MPO-500</title>
+        <description>&lt;h2 id=&quot;neobotix-mpo-500&quot;&gt;Neobotix MPO-500&lt;/h2&gt; &lt;p&gt;The mobile robot MPO-500 features four Mecanum wheels which provide an extraordinary manoeuvrability. Each Mecanum wheel has several independent rollers mounted along its circumference. The axles of the rollers are rotated at 45° to the wheel’s main axle. This design enables the robot to instantly move into any direction: the Mecanum wheels make it truly omnidirectional. These extraordinary features have made Mecanum wheels a very popular solution especially in robotics research.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Payload: &lt;ul&gt; &lt;li&gt;Default 50 kg&lt;/li&gt; &lt;li&gt;High payload 150 kg&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Dimensions: &lt;ul&gt; &lt;li&gt;986 x 662 x 409 (LxWxH, in mm)&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Speed: &lt;ul&gt;...</description>
+        <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/neobotix-mpo-500/</link>
+        <guid isPermaLink="true">http://localhost:3000/neobotix-mpo-500/</guid>
+        
+        <category>holonomic</category>
+        
+        <category>mecanum</category>
+        
+        <category>mobile base</category>
+        
+        <category>mobile manipulator</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MPO-700</title>
+        <description>&lt;h2 id=&quot;neobotix-mpo-700&quot;&gt;Neobotix MPO-700&lt;/h2&gt; &lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;omnidirectional MPO-700&lt;/code&gt; is the ideal base for high-end service robots. Its four &lt;a href=&quot;http://www.neobotix-robots.com/components.html#c225&quot;&gt;Omni-Drive-Modules&lt;/a&gt; enable it to move extremely smoothly into any direction. This robot is even capable of rotating freely while driving to its destination. The Omni-Drive-Modules of the MPO-700 feature important benefits compared to other omnidirectional drive kinematics, like for example the &lt;a href=&quot;http://robots.ros.org/neobotix-mpo-500/&quot;&gt;MPO-500’s&lt;/a&gt; Mecanum wheels.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Fully omnidirectional manoeuvrability&lt;/li&gt; &lt;li&gt;Very steady movements&lt;/li&gt; &lt;li&gt;High stability and payload&lt;/li&gt; &lt;li&gt;Compact, easily integrated drive units&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This makes the MPO-700 a high performance alternative for applications that require omnidirectional movements without the limitations of traditional kinematics.&lt;/p&gt;...</description>
+        <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/mpo-700/</link>
+        <guid isPermaLink="true">http://localhost:3000/mpo-700/</guid>
+        
+        <category>holonomic</category>
+        
+        <category>mobile base</category>
+        
+        <category>mobile manipulator</category>
+        
+        <category>omniwheel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Schunk SVH</title>
+        <description>&lt;h3 id=&quot;description&quot;&gt;Description&lt;/h3&gt; &lt;p&gt;The anthropomorphic SCHUNK 5-finger hand grips nearly as perfectly as the human hand. Due to the moving parts with a total of nine drives, various gripping operations can be executed with high sensitivity. Elastic gripping surfaces ensure a reliable grip on objects. The electronics are completely integrated in the wrist.&lt;/p&gt; &lt;h3 id=&quot;field-of-application&quot;&gt;Field of application&lt;/h3&gt; &lt;p&gt;In addition to new dimensions in gripping and manipulation tasks, SCHUNK is defining the possibility of human / robot communication by gestures with the 5-finger hand.&lt;/p&gt; &lt;h3 id=&quot;advantages--your-benefits&quot;&gt;Advantages – Your benefits&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Suited for mobile application fields by low energy consumption at 24 V...</description>
+        <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/schunk-svh/</link>
+        <guid isPermaLink="true">http://localhost:3000/schunk-svh/</guid>
+        
+        <category>hand</category>
+        
+        <category>humanoid</category>
+        
+        <category>industrial</category>
+        
+        <category>manipulator</category>
+        
+        <category>prosthetics</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Schunk LWA 4P</title>
+        <description>&lt;h2 id=&quot;powerball-lightweight-arm-lwa-4p&quot;&gt;Powerball Lightweight Arm LWA 4P&lt;/h2&gt; &lt;h3 id=&quot;the-lightweight-arm-with-the-worlds-best-compact-performance&quot;&gt;The lightweight arm with the world’s best compact performance&lt;/h3&gt; &lt;p&gt;The most compact, powerful lightweight arm in the world with three highly-integrated Powerball modules offers 6 degrees of freedom. Integrated intelligence makes powerful, mobile handling possible as never before.&lt;/p&gt; &lt;p&gt;The lightweight arm with the world’s most compact performance with three highly-integrated Powerball modules offers 6 degrees of freedom. Integrated intelligence makes power­ful, mobile handling possible as never before. The battery operation makes the LWA 4P mains-independent. Combining it with the SDH 3-finger hand from SCHUNK not only increases the number of degrees of freedom...</description>
+        <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/schunk-lwa-4p/</link>
+        <guid isPermaLink="true">http://localhost:3000/schunk-lwa-4p/</guid>
+        
+        <category>arm</category>
+        
+        <category>industrial</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Autorally</title>
+        <description>&lt;p&gt;AutoRally is a high-performance testbed for robotics research. The robot, developed at Georgia Tech, is integrated with ROS and designed as a self contained system that requires no external sensing or computing. The robot is a robust, cost-effective, and safe platform that opens the space of aggressive autonomous off-road driving to researchers and hobbyists. The core software and simulation environment for the platform are publicly available along with tutorials. Build instructions for the chassis and compute box, complete parts list, CAD models, and operating procedures are released in a separate GitHub repository. If you are interested in the platform, fork...</description>
+        <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/autorally/</link>
+        <guid isPermaLink="true">http://localhost:3000/autorally/</guid>
+        
+        <category>ackerman</category>
+        
+        <category>outdoor</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Xiaoqiang</title>
+        <description>&lt;h1 id=&quot;xiaoqiang&quot;&gt;Xiaoqiang&lt;/h1&gt;
+
+&lt;p&gt;Xiaoqiang is a three-wheeled robot with two active and one passive wheel.
+The wheels are made from a rubber that does not easily slip.
+On the robot is a computer with an i7 processor, 8G memory, and 64G solid state drive.
+The battery (12V 20AH) can power the robot continuously for seven hours.
+The purpose of the robot is to provide a stable development platform for robot enthusiasts and developers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/xiaoqiang/</link>
+        <guid isPermaLink="true">http://localhost:3000/xiaoqiang/</guid>
+        
+        <category>diff-drive</category>
+        
+        <category>mobile base</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>TUlip</title>
+        <description>&lt;p&gt;#TUlip&lt;/p&gt; &lt;p&gt;TUlip is a humanoid robot developed in the &lt;a href=&quot;http://www.tue.nl/en/university/departments/mechanical-engineering/research/research-groups/dynamics-and-control/&quot;&gt;Dynamics and Control group&lt;/a&gt; of the &lt;a href=&quot;http://www.tue.nl/en/university/departments/mechanical-engineering/&quot;&gt;department of Mechanical Engineering&lt;/a&gt; at the &lt;a href=&quot;http://www.tue.nl/en/&quot;&gt;Eindhoven University of Technology&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;TUlip has been designed and realized in 2009 by the Eindhoven University of Technology in cooperation with the Delft University of Technology, the University of Twente en Philips. The robot is 125 centimeters tall, weighs approximately 25 kilograms, and has two legs with each six degrees of freedom. An inertial measurement unit provides orientation information for the robot and a head with a stereovision camera system mounted on a neck mechanism gives...</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/tulip/</link>
+        <guid isPermaLink="true">http://localhost:3000/tulip/</guid>
+        
+        <category>humanoid</category>
+        
+        <category>legged</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Spark</title>
+        <description>&lt;h1 id=&quot;nxrobo-spark&quot;&gt;NXROBO Spark&lt;/h1&gt;
+
+&lt;p&gt;Spark is an affordable development platform for ROS applications, with mobility and vision system.
+The laptop and robot can be charged at the same time to achieve long-term operation without user intervention.
+Power outputs are provided so accessories like a camera, loading platform, robot arm, and lidar can be easily added.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/spark/</link>
+        <guid isPermaLink="true">http://localhost:3000/spark/</guid>
+        
+        <category>autonomous</category>
+        
+        <category>mobile base</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ROBOTIS MANIPULATOR</title>
+        <description>&lt;h1 id=&quot;robotis-manipulator&quot;&gt;ROBOTIS MANIPULATOR&lt;/h1&gt;
+
+&lt;p&gt;The ROBOTIS-MANIPULATOR is an affordable multi-purpose manipulator designed for research and automation.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Multi-purpose, low-cost manipulator&lt;/li&gt;
+  &lt;li&gt;6 degrees of freedom&lt;/li&gt;
+  &lt;li&gt;Modular structure for easy maintenance&lt;/li&gt;
+  &lt;li&gt;Lightweight design for easy placement and transferring&lt;/li&gt;
+  &lt;li&gt;Endures payload suitable for small to mid scale operations&lt;/li&gt;
+  &lt;li&gt;Wide operation range&lt;/li&gt;
+  &lt;li&gt;Suitable for repetitive and high precision operation&lt;/li&gt;
+  &lt;li&gt;USB interface, RS-485 communication&lt;/li&gt;
+  &lt;li&gt;Provides SDK for user programming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/VHpNbKvo0AE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/Gu9PLb7F_QU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/robotis-manipulator/</link>
+        <guid isPermaLink="true">http://localhost:3000/robotis-manipulator/</guid>
+        
+        <category>arm</category>
+        
+        <category>manipulator</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pepper</title>
+        <description>&lt;h1 id=&quot;softbank-robotics-pepper&quot;&gt;Softbank Robotics Pepper&lt;/h1&gt;
+&lt;p&gt;Pepper is a commercially available humanoid robot built by Aldebaran and Softbank Robotics.
+Since the robot uses Aldebaran’s NaoQI framework, we can use naoqi driver ROS driver that is common for Nao, Pepper, and Romeo.
+It wraps the needed parts of NaoQI API and makes it available in ROS.&lt;/p&gt;
+
+&lt;p&gt;A list of tutorials inclusive install and bring-up instructions can be found &lt;a href=&quot;http://wiki.ros.org/pepper/Tutorials&quot;&gt;here&lt;/a&gt;.
+Since Pepper and Nao both use the same NaoQI framework, see &lt;a href=&quot;http://wiki.ros.org/nao/Tutorials&quot;&gt;Nao’s tutorials&lt;/a&gt; for further references.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/pepper/</link>
+        <guid isPermaLink="true">http://localhost:3000/pepper/</guid>
+        
+        <category>mobile manipulator</category>
+        
+        <category>retail</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CROM</title>
+        <description>&lt;h1 id=&quot;robotnik-crom&quot;&gt;Robotnik CROM&lt;/h1&gt;
+
+&lt;p&gt;CROM is an upper body robot intended for research in manufacturing environments.
+It’s capable of performing repetitive and accurate tasks.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Requires no safety cages or barriers.&lt;/li&gt;
+  &lt;li&gt;Safe to operate directly next to people.&lt;/li&gt;
+  &lt;li&gt;Ideal for research and development of human-collaboration robotics in production environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CROM torso is a modular an extensible platform.
+It is possible to configure the robot with a variety of sensors and actuators.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/crom/</link>
+        <guid isPermaLink="true">http://localhost:3000/crom/</guid>
+        
+        <category>industrial</category>
+        
+        <category>manipulator</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>ARMadillo</title>
+        <description>&lt;h1 id=&quot;robotican-armadillo&quot;&gt;RoboTiCan ARMadillo&lt;/h1&gt;
+
+&lt;p&gt;RoboTiCan ARMadillo is a fully ROS compatible research platform.
+It’s equiped with an IMU, GPS, RGB-D camera, ultrasonic sensors, laser scanner, torque and position feed back sensors.
+For software and ROS related information use use the wiki page and the &lt;a href=&quot;http://wiki.ros.org/robotican/Tutorials&quot;&gt;Tutorials&lt;/a&gt; page.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/armadillo/</link>
+        <guid isPermaLink="true">http://localhost:3000/armadillo/</guid>
+        
+        <category>indoor</category>
+        
+        <category>mobile manipulator</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Otto Bock SensorHand</title>
+        <description>&lt;h1 id=&quot;otto-bock-sensorhand-speed&quot;&gt;Otto Bock SensorHand Speed&lt;/h1&gt; &lt;p&gt;SensorHand Speed is a hand prosthetics product developed by Otto Bock. The device essentially consists of a force and velocity controlled gripper that is controlled by integrated electronics. In normal operation mode, electrodes that are attached to the user’s arm are connected to the hand’s interface and provide analog signals that allow gripping operations. The hand can also be switched to communications mode which allows accessing the device via an RS-232 interface (19200-8-N-1). It is also possible to set the device to a mode in which internal data (measured forces, voltages and currents) is sent...</description>
+        <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/otto-bock-sensorhand/</link>
+        <guid isPermaLink="true">http://localhost:3000/otto-bock-sensorhand/</guid>
+        
+        <category>hand</category>
+        
+        <category>prosthetics</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nav2</title>
+        <description>&lt;h1 id=&quot;nav2&quot;&gt;Nav2&lt;/h1&gt;
+
+&lt;p&gt;The Nav2 is a modular robotics platform created by Crosswing Inc, consisting of an omniwheel holonomic mobile base and interchangeable upper components.
+The Nav2’s base configuration is that of a telepresence robot, the VirtualMe.
+To operate the mobile base, you must connect your control computer to the Nav2’s control board, located in the lower compartment.
+The board can be networked with using a variety of configurations such as static IP, or DHCP with zeroconf DNS (e.g. avahi).
+Once connected, you can start the appropriate launch file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;nav2_platform&lt;/code&gt; stack to begin controlling the base.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/nav2/</link>
+        <guid isPermaLink="true">http://localhost:3000/nav2/</guid>
+        
+        <category>holonomic</category>
+        
+        <category>mobile robot</category>
+        
+        <category>omni-wheel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MRP2</title>
+        <description>&lt;h1 id=&quot;milvus-robotics-mrp2&quot;&gt;Milvus Robotics MRP2&lt;/h1&gt;
+&lt;p&gt;MRP2 is an easy to use mobile research robot developed by Milvus Robotics.
+It is offered with advanced features which a researcher can expect from a mobile robot platform.
+It’s recommended to start with the gazebo simulation of the robot first.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/151995409&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/mrp2/</link>
+        <guid isPermaLink="true">http://localhost:3000/mrp2/</guid>
+        
+        <category>diff-drive</category>
+        
+        <category>indigo</category>
+        
+        <category>mobile base</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MiabotPRO</title>
+        <description>&lt;h1 id=&quot;merlin-miabotpro&quot;&gt;Merlin MiabotPRO&lt;/h1&gt;
+
+&lt;p&gt;The Merlin MiabotPRO is a small autonomous mobile robot featuring a high precision drive train, dual processor design, onboard wireless communications (Bluetooth,RF) with extensive support for additional peripherals.&lt;/p&gt;
+
+&lt;p&gt;The Miabot has an onboard firmware API with PID and full feature access via simple ASCII interface, making control of the robot from any programming language/development platform very easy.
+The robot is widely used internationally for advanced robotics research and development.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/miabotpro/</link>
+        <guid isPermaLink="true">http://localhost:3000/miabotpro/</guid>
+        
+        <category>autonomous</category>
+        
+        <category>cturtle</category>
+        
+        <category>mobile robot</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mecanumbot</title>
+        <description>&lt;h1 id=&quot;mecanumbot&quot;&gt;Mecanumbot&lt;/h1&gt;
+
+&lt;p&gt;The Mecanumbot was designed as a software research platform.
+It features a high-performance multi-core computer, a holonomic mobile base, a 2D laser scanner, and a Microsoft Kinect.
+It is capable of teleoperation, and following a red ball.&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/6A4Kd9i8JTE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/mecanumbot/</link>
+        <guid isPermaLink="true">http://localhost:3000/mecanumbot/</guid>
+        
+        <category>holonomic</category>
+        
+        <category>mecanum</category>
+        
+        <category>mobile base</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Maggie</title>
+        <description>&lt;h1 id=&quot;maggie&quot;&gt;Maggie&lt;/h1&gt;
+
+&lt;p&gt;Maggie robot is a social robot platform built by the Social Robots Group from RoboticsLab at University Carlos III of Madrid.
+The software system is written entirely in ROS.
+As such, all Maggie capabilities are available via ROS interfaces.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/maggie/</link>
+        <guid isPermaLink="true">http://localhost:3000/maggie/</guid>
+        
+        <category>mobile robot</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>MICO</title>
+        <description>&lt;h1 id=&quot;kinova-mico&quot;&gt;Kinova MICO&lt;/h1&gt;
+
+&lt;p&gt;The MICO Robot Arm is modular and efficient with a payload-to-weight ratio that is ideal for day to day activities, perfect for advanced manipulation research.
+The arm is powered by a 24V battery or standard electrical plug, so users can enjoy the system on day one.
+The MICO Robot Arm can safely handle everyday objects by utilizing the two under-actuated fingers.
+With 6 degrees of freedom, MICO allows for flexible, safe, and effective interaction in almost any environment.&lt;/p&gt;
+
+&lt;p&gt;Please find the most up to date ROS driver, usage and install instructions &lt;a href=&quot;http://wiki.ros.org/jaco_ros&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/mico/</link>
+        <guid isPermaLink="true">http://localhost:3000/mico/</guid>
+        
+        <category>arm</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lego NXT</title>
+        <description>&lt;h1 id=&quot;lego-nxt&quot;&gt;Lego NXT&lt;/h1&gt; &lt;p&gt;NXT is a modular robotics kit manufactured by Lego. There are ROS interfaces for the default Lego firmware (v1.28) based on the &lt;a href=&quot;https://github.com/eelviny/nxt-python&quot;&gt;NXT-python&lt;/a&gt; library by Douglas Lau.&lt;/p&gt; &lt;p&gt;The NXT-ROS software stack provides many useful tools to interface NXT robots with ROS. Currently NXT users can take robot models created with Lego Digital Designer, and automatically convert them into robot models compatible with ROS. The converted robot model can be visualized in rviz, and in the future we hope to add simulation capabilities in gazebo, our 3D simulator. The bridge between NXT and ROS creates a ROS...</description>
+        <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/lego-nxt/</link>
+        <guid isPermaLink="true">http://localhost:3000/lego-nxt/</guid>
+        
+        <category>retail</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>JACO</title>
+        <description>&lt;h1 id=&quot;kinova-jaco&quot;&gt;Kinova JACO&lt;/h1&gt;
+
+&lt;p&gt;The JACO Robot Arm is modular and efficient, with a payload-to-weight ratio that is ideal for day to day activities, perfect for advanced manipulation research.
+The arm is powered by a 24V battery or standard electrical plug, so users can enjoy the system on day one.
+The JACO Robot Arm can safely handle everyday objects by utilizing the three under-actuated fingers.
+With 6 degrees of freedom, JACO allows for flexible, safe, and effective interaction in almost any environment.&lt;/p&gt;
+
+&lt;p&gt;Please find the most up to date ROS driver, usage and install instructions &lt;a href=&quot;http://wiki.ros.org/jaco_ros&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/jaco/</link>
+        <guid isPermaLink="true">http://localhost:3000/jaco/</guid>
+        
+        <category>arm</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Roomba</title>
+        <description>&lt;h1 id=&quot;irobot-roomba&quot;&gt;iRobot Roomba&lt;/h1&gt; &lt;p&gt;The Roomba is an autonomous vacuum cleaner sold by iRobot. It was designed to navigate a living space and avoid common obstacles such as furniture while vacuuming the floor. The Roomba was introduced in 2002 thus to the present day it has evolved over three generations into a robust dust eating machine.&lt;/p&gt; &lt;p&gt;iRobot also sells the Create, a cousin of the Roomba stripped down of the vacuuming apparatus, created to suit the purpose of a cheap mobile robotics research platform.&lt;/p&gt; &lt;p&gt;So why use the Roomba for research? First of all the Create is not available outside of...</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/irobot-roomba/</link>
+        <guid isPermaLink="true">http://localhost:3000/irobot-roomba/</guid>
+        
+        <category>autonomous</category>
+        
+        <category>diff-drive</category>
+        
+        <category>indoor</category>
+        
+        <category>retail</category>
+        
+        <category>vacuum</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Intel Edison</title>
+        <description>&lt;h1 id=&quot;intel-edison&quot;&gt;Intel Edison&lt;/h1&gt; &lt;p&gt;The Intel® Edison is an ultra small computing platform that will allow you to jump into ROS with a stamp size computer.&lt;/p&gt; &lt;p&gt;Each Edison is provides the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like “Blocks” which can be stacked on top of each other. The Intel® Edison packs a robust set of features into its small size, delivering great performance, durability, and a broad spectrum of I/O and software...</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/intel-edison/</link>
+        <guid isPermaLink="true">http://localhost:3000/intel-edison/</guid>
+        
+        <category>computation</category>
+        
+        <category>single-board-computer</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>HiroNXO</title>
+        <description>&lt;h1 id=&quot;hironxo&quot;&gt;HiroNXO&lt;/h1&gt;
+
+&lt;p&gt;The NEXTAGE OPEN / Hiro (HiroNXO) is a manipulation platform built by Kawada Industries.
+The HiroNXO software system is written in hrpsys (OpenRTM-based controller), and its programming interface is available in ROS as well.
+Most of HiroNXO capabilities are available via ROS interfaces.&lt;/p&gt;
+
+&lt;p&gt;It is recommended to start with its opensource software tutorial series.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/hironxo/</link>
+        <guid isPermaLink="true">http://localhost:3000/hironxo/</guid>
+        
+        <category>mobile manipulator</category>
+        
+        <category>research</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
