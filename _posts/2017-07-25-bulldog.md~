@@ -1,0 +1,67 @@
+---
+layout: post
+title: BullDog
+date: 2017-07-25
+description:
+icon: /assets/img/robots/bulldog/Bulldog1.png
+image: /assets/img/robots/bulldog/Bulldog2-1.png
+introduction: The bulldog(Professional Robot)is a robust and versatile middle size platform designed outdoor operations. all-weather four wheel skid-steer,robot can climb stairs,slope,and manenuver directly to apoint of interest on rough road outside.
+main-class: 'ground'
+color: '#112233'
+tags:
+twitter_text: Checkout the BullDog
+website: https://www.intelrope.de
+wiki_homepage: BullDog
+---
+
+### BullDog
+The bulldog(Professional Robot)is a robust and versatile middle size platform designed outdoor operations. all-weather four wheel skid-steer,robot can climb stairs,slope,and manenuver directly to apoint of interest on rough road outside.the robot can be teleoperated,follow the leader or use GPS waypoint navigation.
+
+Modular design and provide 5/12/24/48v power and reconfigurable I/O.make the robot easy to integrate serveral sensors (indoor/outdoor laser,cameras,3D cameras,inertial merasurement units,GPS...) and actuators(light weight robot arm,stereovision,pan-tilt units...).
+
+Based on open-source and modular,ROS(http://www.ros.org).framework simplifies the software development and allows easy integration and reutilization of software components whether they are device drivers or state of the art algorithms in vision,SlAM,point cloud processing,grasping,planning,swarming,etc.
+
+### parameter
+* Dimensions(L * W * H)
+  * 880x680x450mm
+
+* Weight 
+  * 60KG
+
+* Max Payload Weight
+  * 100KG
+
+* Max speed
+  * 2m/s
+
+* Drivers and API
+  * ROS/Python/C++
+
+* Operational Time
+  * 3hrs typ/8hrs max
+
+* Power
+  * 1000w Peak
+
+* Battery
+  * 48v 20Ah Li-Po
+
+* Maximum Permissible Gradient
+  * 40*
+
+* Rating 
+  * IP66
+
+* Encoder
+  * 25000pulses/m
+
+* Feedback
+  * battery status/running status
+
+* Control Mode 
+  * Voltage,Speed,Wheel Speed
+
+* Communication
+  * USB/Ethernet
+
+Project author: <a href="https://www.intelrope.de">the BullDog web</a>

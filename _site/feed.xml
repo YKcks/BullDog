@@ -5,15 +5,14 @@
     <description>An index of ROS Robots</description>
     <link>http://localhost:3000/</link>
     <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jul 2017 08:51:55 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Jul 2017 08:51:55 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2017 07:57:27 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2017 07:57:27 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>BullDog</title>
-        <description>&lt;p&gt;TODO Fill in the long description/article here.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+        <description>&lt;h3 id=&quot;bulldog&quot;&gt;BullDog&lt;/h3&gt; &lt;p&gt;The bulldog(Professional Robot)is a robust and versatile middle size platform designed outdoor operations. all-weather four wheel skid-steer,robot can climb stairs,slope,and manenuver directly to apoint of interest on rough road outside.the robot can be teleoperated,follow the leader or use GPS waypoint navigation.&lt;/p&gt; &lt;p&gt;Modular design and provide 5/12/24/48v power and reconfigurable I/O.make the robot easy to integrate serveral sensors (indoor/outdoor laser,cameras,3D cameras,inertial merasurement units,GPS…) and actuators(light weight robot arm,stereovision,pan-tilt units…).&lt;/p&gt; &lt;p&gt;Based on open-source and modular,ROS(http://www.ros.org).framework simplifies the software development and allows easy integration and reutilization of software components whether they are device drivers or state of the art algorithms in...</description>
+        <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:3000/bulldog/</link>
         <guid isPermaLink="true">http://localhost:3000/bulldog/</guid>
         
